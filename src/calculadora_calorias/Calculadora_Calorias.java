@@ -13,7 +13,7 @@ public class Calculadora_Calorias {
 		// pequeños acambio para ver que el documento cambias
 		// estamos haciendo proebas con git
 		
-		
+		// estos son comentarios para commit 2m para tener mas cambios que ver!
 
 		//calculadora basal, datos necesarios	
 
