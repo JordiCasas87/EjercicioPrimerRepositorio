@@ -10,6 +10,10 @@ public class Calculadora_Calorias {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		// pequeños acambio para ver que el documento cambias
+		// estamos haciendo proebas con git
+		
+		
 
 		//calculadora basal, datos necesarios	
 
