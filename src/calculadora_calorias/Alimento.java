@@ -6,7 +6,7 @@ public class Alimento {
 	private int proteinas;
 	private String nombre;
 	
-	
+// cambio de prueba para git hub	
 	
 	public Alimento(int calorias, int proteinas, String nombre) {
 		super();
