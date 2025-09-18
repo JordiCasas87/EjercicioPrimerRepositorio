@@ -11,7 +11,7 @@ public class Calculadora_Calorias {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		// pequeños acambio para ver que el documento cambias
-		// estamos haciendo proebas con git
+		// estamos haciendo proebas con git y alguna cosa mas
 		
 		// estos son comentarios para commit 2m para tener mas cambios que ver!
 
